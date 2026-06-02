@@ -1,8 +1,0 @@
-export { KPICard } from './index'
-export { BrandTable } from './index'
-export { AIInsightsFeed } from './index'
-export { AlertList } from './index'
-export { LiveTransactionFeed } from './index'
-export { RevenueChart } from './index'
-export { TopBar } from './index'
-export { Ticker } from './index'
